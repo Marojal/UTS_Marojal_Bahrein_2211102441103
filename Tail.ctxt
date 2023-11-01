@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tail
+comment1.params=
+comment1.target=void\ act()
+comment2.params=panjangu\ rotation\ selanjutnya
+comment2.target=Tail(int,\ int,\ Tail)
+comment3.params=
+comment3.target=void\ increase()
+numComments=4
